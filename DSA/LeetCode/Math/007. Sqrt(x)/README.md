@@ -1,6 +1,8 @@
 # 🟢 #7. Sqrt(x)
 
-> **[LeetCode](https://leetcode.com/problems/sqrtx/)** · 🟢 Easy · Solved on July 14, 2026
+> **[LeetCode](https://leetcode.com/problems/sqrtx/)** · 🟢 Easy · Improved on July 14, 2026
+
+> 🔄 **Improved solution** — see [commit history](https://leetcode.com/problems/sqrtx/) for the previous attempt.
 
 ## 📋 Details
 
