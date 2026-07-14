@@ -13,8 +13,8 @@
 | 🧩 **Topics** | `array` · `math` |
 | 💻 **Language** | C++ |
 | 🔢 **Solve #** | #1 in this repo |
-| ⏱ **Runtime** | N/A |
-| 💾 **Memory**  | N/A |
+| ⏱ **Runtime** | 2 ms (beats 6.9%) |
+| 💾 **Memory**  | 11.7 MB (beats 27.8%) |
 
 ## 💡 Solution
 
@@ -29,9 +29,10 @@ public:
             }
         digits[i] = 0;
         }
+        
     // digits.insert(digits.begin(), 1);
     // return digits;
-    
+
     digits[0] = 1;
     digits.push_back(0);
     return digits;
@@ -43,8 +44,8 @@ public:
 
 | Metric | Value | Percentile |
 |--------|-------|------------|
-| ⏱ Runtime  | `N/A` | — |
-| 💾 Memory   | `N/A`  | — |
+| ⏱ Runtime  | `2 ms` | Beats 6.9% |
+| 💾 Memory   | `11.7 MB`  | Beats 27.8% |
 
 ## 📝 Notes
 
