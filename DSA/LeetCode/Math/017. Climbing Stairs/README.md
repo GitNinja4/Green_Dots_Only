@@ -1,6 +1,6 @@
-# 🟢 #17. Climbing Stairs
+# ⚡ #17. Climbing Stairs
 
-> **[LeetCode](https://leetcode.com/problems/climbing-stairs/)** · 🟢 Easy · Improved on July 14, 2026
+> **[LeetCode](https://leetcode.com/problems/climbing-stairs/)** · — · Improved on July 14, 2026
 
 > 🔄 **Improved solution** — see [commit history](https://leetcode.com/problems/climbing-stairs/) for the previous attempt.
 
@@ -9,12 +9,14 @@
 | Field | Value |
 |-------|-------|
 | 🔗 **Problem** | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |
-| 🏷 **Difficulty** | 🟢 Easy |
-| 🧩 **Topics** | `math` · `dynamic-programming` · `memoization` |
+| 🏷 **Difficulty** | — |
+| 🧩 **Topics** | — |
 | 💻 **Language** | C++ |
 | 🔢 **Solve #** | #17 in this repo |
-| ⏱ **Runtime** | N/A |
-| 💾 **Memory**  | N/A |
+| ⏱ **Runtime** | 2
+ms |
+| 💾 **Memory**  | 8.39
+MB |
 
 ## 💡 Solution
 
@@ -44,8 +46,10 @@ public:
 
 | Metric | Value | Percentile |
 |--------|-------|------------|
-| ⏱ Runtime  | `N/A` | — |
-| 💾 Memory   | `N/A`  | — |
+| ⏱ Runtime  | `2
+ms` | — |
+| 💾 Memory   | `8.39
+MB`  | — |
 
 ## 📝 Notes
 
