@@ -26,7 +26,7 @@
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 20 |
+| C++ | 21 |
 
 ## ⚡ By Difficulty
 
@@ -49,4 +49,4 @@
 
 ---
 
-*🤖 Auto-updated by [GreenDots](https://github.com/GitNinja4/GreenDots) · Last sync: 2026-07-14 18:51 UTC*
+*🤖 Auto-updated by [GreenDots](https://github.com/GitNinja4/GreenDots) · Last sync: 2026-07-14 19:04 UTC*
