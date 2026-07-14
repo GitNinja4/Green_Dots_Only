@@ -26,7 +26,7 @@
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 1 |
+| C++ | 2 |
 
 ## ⚡ By Difficulty
 
