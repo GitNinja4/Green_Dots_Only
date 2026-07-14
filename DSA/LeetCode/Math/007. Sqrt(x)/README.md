@@ -10,11 +10,11 @@
 |-------|-------|
 | 🔗 **Problem** | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
 | 🏷 **Difficulty** | 🟢 Easy |
-| 🧩 **Topics** | `Math` · `Binary Search` |
+| 🧩 **Topics** | `math` · `binary-search` |
 | 💻 **Language** | C++ |
 | 🔢 **Solve #** | #7 in this repo |
-| ⏱ **Runtime** | 0 ms |
-
+| ⏱ **Runtime** | N/A |
+| 💾 **Memory**  | N/A |
 
 ## 💡 Solution
 
@@ -23,6 +23,7 @@ class Solution {
 public:
     int mySqrt(int x) {
         // Base cases for 0 and 1
+        
         if (x < 2) {
             return x;
         }
@@ -54,7 +55,8 @@ public:
 
 | Metric | Value | Percentile |
 |--------|-------|------------|
-| ⏱ Runtime  | `0 ms` | — |
+| ⏱ Runtime  | `N/A` | — |
+| 💾 Memory   | `N/A`  | — |
 
 ## 📝 Notes
 
