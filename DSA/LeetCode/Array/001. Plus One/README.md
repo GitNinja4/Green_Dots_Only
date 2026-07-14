@@ -1,6 +1,8 @@
 # 🟢 #1. Plus One
 
-> **[LeetCode](https://leetcode.com/problems/plus-one/)** · 🟢 Easy · Solved on July 14, 2026
+> **[LeetCode](https://leetcode.com/problems/plus-one/)** · 🟢 Easy · Improved on July 14, 2026
+
+> 🔄 **Improved solution** — see [commit history](https://leetcode.com/problems/plus-one/) for the previous attempt.
 
 ## 📋 Details
 
@@ -11,9 +13,8 @@
 | 🧩 **Topics** | `array` · `math` |
 | 💻 **Language** | C++ |
 | 🔢 **Solve #** | #1 in this repo |
-| ⏱ **Runtime** | 0
-ms (beats 100.0%) |
-| 💾 **Memory**  | 11.6 MB (beats 62.3%) |
+| ⏱ **Runtime** | N/A |
+| 💾 **Memory**  | N/A |
 
 ## 💡 Solution
 
@@ -41,9 +42,8 @@ public:
 
 | Metric | Value | Percentile |
 |--------|-------|------------|
-| ⏱ Runtime  | `0
-ms` | Beats 100.0% |
-| 💾 Memory   | `11.6 MB`  | Beats 62.3% |
+| ⏱ Runtime  | `N/A` | — |
+| 💾 Memory   | `N/A`  | — |
 
 ## 📝 Notes
 
