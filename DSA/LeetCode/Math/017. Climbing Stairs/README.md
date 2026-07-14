@@ -1,6 +1,8 @@
 # 🟢 #17. Climbing Stairs
 
-> **[LeetCode](https://leetcode.com/problems/climbing-stairs/)** · 🟢 Easy · Solved on July 14, 2026
+> **[LeetCode](https://leetcode.com/problems/climbing-stairs/)** · 🟢 Easy · Improved on July 14, 2026
+
+> 🔄 **Improved solution** — see [commit history](https://leetcode.com/problems/climbing-stairs/) for the previous attempt.
 
 ## 📋 Details
 
@@ -11,7 +13,7 @@
 | 🧩 **Topics** | `Math` · `Dynamic Programming` · `Memoization` |
 | 💻 **Language** | C++ |
 | 🔢 **Solve #** | #17 in this repo |
-
+| ⏱ **Runtime** | 0 ms |
 
 
 ## 💡 Solution
@@ -20,10 +22,19 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        
+        if (n == 0 || n == 1) {
+            return 1;
+        }
+        return climbStairs(n-1) + climbStairs(n-2);
     }
 };
 ```
+
+## ⚡ Performance
+
+| Metric | Value | Percentile |
+|--------|-------|------------|
+| ⏱ Runtime  | `0 ms` | — |
 
 ## 📝 Notes
 
