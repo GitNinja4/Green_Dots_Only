@@ -18,4 +18,12 @@ public:
             // to completely avoid integer overflow issues
             if (mid <= x / mid) {
                 ans = mid;       // Keep track of the closest valid answer
-                left
+                left = mid + 1;  // Try to find a larger value
+            } else {
+                right = mid - 1; // mid is too large, search the lower half
+            }
+        }
+        
+        return ans;
+    }
+};
