@@ -10,7 +10,7 @@
 |-----------|-------|
 | ✅ **Total Solved** | **2** |
 | 🔥 **Current Streak** | **1 days** |
-| 🟢 Easy | 2 |
+| 🟢 Easy | 1 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -26,13 +26,13 @@
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 10 |
+| C++ | 11 |
 
 ## ⚡ By Difficulty
 
 | Difficulty | Count |
 |-----------|-------|
-| 🟢 Easy | 2 |
+| 🟢 Easy | 1 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -42,9 +42,9 @@
 
 | # | Problem | Platform | Difficulty |
 |---|---------|----------|-----------|
-| 1 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LeetCode | 🟢 Easy |
+| 1 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LeetCode | ⚪ Unknown |
 | 2 | [Plus One](https://leetcode.com/problems/plus-one/) | LeetCode | 🟢 Easy |
 
 ---
 
-*🤖 Auto-updated by [GreenDots](https://github.com/GitNinja4/GreenDots) · Last sync: 2026-07-14 13:10 UTC*
+*🤖 Auto-updated by [GreenDots](https://github.com/GitNinja4/GreenDots) · Last sync: 2026-07-14 13:11 UTC*
