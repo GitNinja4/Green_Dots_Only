@@ -1,6 +1,6 @@
-# ⚡ #7. Sqrt(x)
+# 🟢 #7. Sqrt(x)
 
-> **[LeetCode](https://leetcode.com/problems/sqrtx/)** · — · Improved on July 14, 2026
+> **[LeetCode](https://leetcode.com/problems/sqrtx/)** · 🟢 Easy · Improved on July 14, 2026
 
 > 🔄 **Improved solution** — see [commit history](https://leetcode.com/problems/sqrtx/) for the previous attempt.
 
@@ -9,14 +9,12 @@
 | Field | Value |
 |-------|-------|
 | 🔗 **Problem** | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
-| 🏷 **Difficulty** | — |
-| 🧩 **Topics** | — |
+| 🏷 **Difficulty** | 🟢 Easy |
+| 🧩 **Topics** | `Math` · `Binary Search` |
 | 💻 **Language** | C++ |
 | 🔢 **Solve #** | #7 in this repo |
-| ⏱ **Runtime** | 0
-ms |
-| 💾 **Memory**  | 8.62
-MB |
+| ⏱ **Runtime** | 0 ms |
+
 
 ## 💡 Solution
 
@@ -25,7 +23,6 @@ class Solution {
 public:
     int mySqrt(int x) {
         // Base cases for 0 and 1
-
         if (x < 2) {
             return x;
         }
@@ -41,17 +38,23 @@ public:
             // to completely avoid integer overflow issues
             if (mid <= x / mid) {
                 ans = mid;       // Keep track of the closest valid answer
-                left
+                left = mid + 1;  // Try to find a larger value
+            } else {
+                right = mid - 1; // mid is too large, search the lower half
+            }
+        }
+        
+        return ans ;
+    }
+};
+
 ```
 
 ## ⚡ Performance
 
 | Metric | Value | Percentile |
 |--------|-------|------------|
-| ⏱ Runtime  | `0
-ms` | — |
-| 💾 Memory   | `8.62
-MB`  | — |
+| ⏱ Runtime  | `0 ms` | — |
 
 ## 📝 Notes
 
