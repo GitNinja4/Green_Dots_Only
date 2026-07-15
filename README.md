@@ -8,8 +8,8 @@
 
 | 📊 Metric | Count |
 |-----------|-------|
-| ✅ **Total Solved** | **1** |
-| 🔥 **Current Streak** | **1 days** |
+| ✅ **Total Solved** | **2** |
+| 🔥 **Current Streak** | **2 days** |
 | 🟢 Easy | 1 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
@@ -21,11 +21,13 @@
 | Platform | Problems |
 |----------|---------|
 | LeetCode | 1 |
+| GeeksForGeeks | 1 |
 
 ## 💻 By Language
 
 | Language | Solutions |
 |----------|----------|
+| Python 3 | 1 |
 | C++ | 1 |
 
 ## ⚡ By Difficulty
@@ -42,8 +44,9 @@
 
 | # | Problem | Platform | Difficulty |
 |---|---------|----------|-----------|
-| 1 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | LeetCode | 🟢 Easy |
+| 1 | [Indexes of Subarray Sum](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksForGeeks | ⚪ Unknown |
+| 2 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | LeetCode | 🟢 Easy |
 
 ---
 
-*🤖 Auto-updated by [GreenDots](https://github.com/GitNinja4/GreenDots) · Last sync: 2026-07-15 16:42 UTC*
+*🤖 Auto-updated by [GreenDots](https://github.com/GitNinja4/GreenDots) · Last sync: 2026-07-15 19:50 UTC*
