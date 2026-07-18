@@ -1,13 +1,13 @@
-# ⚡ The FizzBuzz Program
+# 🟢 The FizzBuzz Program
 
-> **[GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1)** · — · Solved on July 19, 2026
+> **[GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1)** · 🟢 Easy · Solved on July 19, 2026
 
 ## 📋 Details
 
 | Field | Value |
 |-------|-------|
 | 🔗 **Problem** | [The FizzBuzz Program](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1) |
-| 🏷 **Difficulty** | — |
+| 🏷 **Difficulty** | 🟢 Easy |
 | 🧩 **Topics** | `Expected Complexities` · `Expected Complexities` · `Topic Tags` · `Topic Tags` · `python-conditionals` · `CPP` · `Java` · `python` · `Related Articles` · `Related Articles` |
 | 💻 **Language** | Python 3 |
 | 🔢 **Solve #** | Platform problem number unavailable |
