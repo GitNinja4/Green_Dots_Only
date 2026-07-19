@@ -8,7 +8,7 @@
 
 | 📊 Metric | Count |
 |-----------|-------|
-| ✅ **Total Solved** | **5** |
+| ✅ **Total Solved** | **6** |
 | 🔥 **Current Streak** | **2 days** |
 | 🟢 Easy | 4 |
 | 🟡 Medium | 0 |
@@ -21,7 +21,7 @@
 | Platform | Problems |
 |----------|---------|
 | LeetCode | 3 |
-| GeeksForGeeks | 2 |
+| GeeksForGeeks | 3 |
 
 ## 💻 By Language
 
@@ -44,12 +44,13 @@
 
 | # | Problem | Platform | Difficulty |
 |---|---------|----------|-----------|
-| 1 | [Single Number](https://leetcode.com/problems/single-number/) | LeetCode | 🟢 Easy |
-| 2 | [The FizzBuzz Program](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1) | GeeksForGeeks | 🟢 Easy |
-| 3 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | 🟢 Easy |
-| 4 | [Indexes of Subarray Sum](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksForGeeks | ⚪ Unknown |
-| 5 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | LeetCode | 🟢 Easy |
+| 1 | [While Loop](https://www.geeksforgeeks.org/problems/while-loop/1) | GeeksForGeeks | ⚪ Unknown |
+| 2 | [Single Number](https://leetcode.com/problems/single-number/) | LeetCode | 🟢 Easy |
+| 3 | [The FizzBuzz Program](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1) | GeeksForGeeks | 🟢 Easy |
+| 4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | 🟢 Easy |
+| 5 | [Indexes of Subarray Sum](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksForGeeks | ⚪ Unknown |
+| 6 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | LeetCode | 🟢 Easy |
 
 ---
 
-*🤖 Auto-updated by [GreenDots](https://github.com/GitNinja4/GreenDots) · Last sync: 2026-07-19 09:12 UTC*
+*🤖 Auto-updated by [GreenDots](https://github.com/GitNinja4/GreenDots) · Last sync: 2026-07-19 15:50 UTC*
